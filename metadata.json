@@ -1,0 +1,6 @@
+{
+  "name": "Android GPS Location & Geocoder App (Kotlin)",
+  "description": "Android GPS Location app in Kotlin with Get Location, Geocoder reverse geocoding, real device GPS, and presets for VSB Karur Karudayampalayam, Karur, Erode, Namakkal, and Dindigul with Android source code export.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
